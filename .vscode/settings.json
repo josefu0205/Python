@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/Users/josephfu/.vscode/extensions/stefanwehr.write-your-python-program-1.1.0/python/src/"
+    ],
+    "python.analysis.extraPaths": [
+        "/Users/josephfu/.vscode/extensions/stefanwehr.write-your-python-program-1.0.6/python/src/"
+    ],
+    "DockerRun.DisableDockerrc": true
+}
