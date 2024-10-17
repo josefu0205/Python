@@ -1,0 +1,10 @@
+x = 20
+y = 30
+# step one
+x ^= y
+# step two
+y ^= x
+# step three
+x ^= y
+print(f"x is: {x}")
+print(f"y is: {y}")

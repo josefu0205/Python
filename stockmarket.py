@@ -33,7 +33,7 @@ for ticker in tickers:
 print(close_df)
 
 ## Set the output folder path
-output_folder = "/Users/josephfu/Python/"
+output_folder = "/home/parallels/tutorials/Python/"
 
 # Incorporate the timestamp into the filename
 filename = f"stockprice_{timestamp_str}.xlsx"
